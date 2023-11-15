@@ -26,12 +26,11 @@ Step 6: Display avaliable sensor in android mobile devices.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-
-/*
+```
 Program to print the avaliable sensor in android mobile devices”.
 Developed by:LOGESHWARI.P
 Registeration Number : 212221230055
-*/
+```
 
 ### ActivityMain.xml:
 ```
@@ -91,10 +90,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-
-![Uploading 282860582-7e810026-81ec-4898-be15-5ae5fe3ccc74.png…]()
-
-
+![283048263-523fc497-13f7-499e-bd19-58300de6e131](https://github.com/logeshwari2004/Ex-No-04-Advanced-Androif/assets/94211349/00e9916d-a117-4cba-ab7d-37b3ffbcc902)
 
 ## RESULT
 Thus a Simple Android Application to display the avaliable sensor in android mobile devices using Sensor Manager in Android Studio is developed and executed successfully.
